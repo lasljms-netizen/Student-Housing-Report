@@ -1,4 +1,5 @@
 **Student Housing Financial Report Generator**
+
 A Python-based tool that reads student housing data from an Excel file and automatically generates a professional PDF report showing current occupancy, progress toward goals, and occupancy rates by college (with charts).
 
 **Features**
