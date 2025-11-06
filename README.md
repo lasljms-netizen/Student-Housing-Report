@@ -22,6 +22,9 @@ Example: housing_financial_report.pdf
 
 
 ⚠️ Common Issues ⚠️
+
 All 100% Occupancy: Check for typos or spacing in “Lease Status.”
+
 Missing Colleges: Make sure “College” column matches exactly.
+
 Grey Bars: Color mapping depends on exact college names — check capitalization and spaces.
